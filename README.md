@@ -20,6 +20,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/manojcodings/ghost-rider-luxury-bikes?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/manojcodings/ghost-rider-luxury-bikes?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/manojcodings/ghost-rider-luxury-bikes?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Kumar-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-684b133a6/)
 
 </div>
 
