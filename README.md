@@ -20,6 +20,7 @@
 ![GitHub stars](https://img.shields.io/github/stars/manojcodings/ghost-rider-luxury-bikes?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/manojcodings/ghost-rider-luxury-bikes?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/manojcodings/ghost-rider-luxury-bikes?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Kumar-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-684b133a6/)
 
 </div>
 
@@ -29,7 +30,7 @@
 
 ## 🏍️ &nbsp;What Is Ghost Rider?
 
-<img align="right" src="https://readme-typing-svg.demolab.com?font=Inter&size=14&duration=2000&pause=500&color=D4AF37&center=false&vCenter=true&multiline=true&width=300&height=100&lines=🏍️+Premium+Bike+Showcase;⚡+Cinematic+Animations;🔐+Admin+Dashboard;📱+Fully+Responsive" alt="features" />
+<img align="right" src="https://readme-typing-svg.demolab.com?font=Inter&size=14&duration=2000&pause=500&color=D4AF37&center=false&vCenter=true&multiline=true&width=300&height=100&lines=🏍️+Premium+Bike+Showcase;⚡+Cinematic+Animations;🔐+Admin+Dashboard;📱+Fully+Responsive" alt="" />
 
 **Ghost Rider Luxury Bikes** is a high-performance motorcycle showcase platform designed for bike enthusiasts. It combines a stunning React frontend with a powerful Laravel backend to deliver a seamless, premium experience.
 
@@ -211,9 +212,10 @@ php artisan migrate
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=400&lines=Made+with+❤️+by+Manoj;Ghost+Rider+Luxury+Bikes" alt="author" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=1000&color=D4AF37&center=true&vCenter=true&width=400&lines=Made+with+❤️+by+Manoj;Ghost+Rider+Luxury+Bikes" alt="" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-manojcodings-D4AF37?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manojcodings)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Manoj_Kumar-D4AF37?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manoj-kumar-684b133a6/)
 
 </div>
 
